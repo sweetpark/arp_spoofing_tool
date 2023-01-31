@@ -2,7 +2,7 @@
 
 -. arp_spoofing_auto_tool 
 
-# 개발 환경
+# OS
 -. ubuntu 20.04 LTS
 
 # library
